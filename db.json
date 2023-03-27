@@ -26,7 +26,7 @@
 		"price": 19000
 	}, {
 		"id":3,
-		"categoryId":3,
+		"categoryId":2,
 		"img": "https://www.sony.co.in/image/27d11efb2e29d5dbb5530ff6cc1a4631?fmt=png-alpha&wid=660&hei=660",
 		"name": "WF 100XM3",
 		"price": 21000
